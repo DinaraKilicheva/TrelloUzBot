@@ -1,5 +1,8 @@
 ##TrelloTelegramBot 
 ![photo_2](https://user-images.githubusercontent.com/122788597/219399409-58a73127-4048-41f6-9179-6edf2d1f9437.jpg)
+
+![1](https://user-images.githubusercontent.com/122788597/219404727-881fc1db-9582-4b8d-8241-fc549838babb.jpg)
+
 ![photo_3](https://user-images.githubusercontent.com/122788597/219399524-730f2df7-efef-4c48-b901-63c12adebcbd.jpg)
 ![photo_4](https://user-images.githubusercontent.com/122788597/219399565-b19385cc-cf83-4d0f-bfa6-83c41415c212.jpg)
 ![photo_5](https://user-images.githubusercontent.com/122788597/219399579-58a08edf-27fc-4aab-9231-af7b74399451.jpg)
